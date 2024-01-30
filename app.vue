@@ -6,6 +6,6 @@
 
 <style>
 html {
-  @apply bg-bg;
+  @apply bg-bg text-text;
 }
 </style>
